@@ -1,0 +1,32 @@
+html {
+  font-family:sans-serif;
+  line-height:1.15;
+  -webkit-text-size-adjust:100%;
+  -ms-text-size-adjust:100%;
+  -ms-overflow-style:scrollbar;
+  -webkit-tap-highlight-color:transparent;
+}
+
+*, *::before, *::after {
+  box-sizing:border-box;
+}
+
+@-ms-viewport {
+  width:device-width;
+}
+
+article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
+  display:block;
+}
+
+body {
+  margin:0;
+  font-family:"Roboto", "Helvetica", "Arial", sans-serif;
+  font-size:1rem;
+  font-weight:400;
+  line-height:1.5;
+  color:#212529;
+  text-align:left;
+  background-color:#f0ede5;
+}
+
