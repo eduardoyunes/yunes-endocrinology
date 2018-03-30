@@ -1,0 +1,32 @@
+{
+  "name": "yunes-endocrinologia",
+  "version": "1.0.0",
+  "description": "Yunes Endocrinologia e Metabologia",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yunes-endocrinology"
+  },
+  "keywords": [
+    "endocrinologia",
+    "metabologia",
+    "pelotas",
+    "RS",
+    "Eduardo",
+    "Tireoide",
+    "website",
+    "site",
+    "Diabetes",
+    "Dr.",
+    "Eduardo"
+  ],
+  "author": "Eduardo Bardou Yunes Filho",
+  "license": "MIT"
+}
